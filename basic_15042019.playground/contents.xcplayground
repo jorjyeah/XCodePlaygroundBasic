@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='dictionary'/>
+        <page name='array'/>
+        <page name='set'/>
+        <page name='optional'/>
+        <page name='challenge'/>
+        <page name='enum'/>
+        <page name='challenge2'/>
+        <page name='function'/>
+        <page name='challenge3'/>
+    </pages>
+</playground>
